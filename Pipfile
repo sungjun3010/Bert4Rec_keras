@@ -20,6 +20,7 @@ tqdm = "==4.62.2"
 wandb = "==0.12.2"
 iterative-stratification = "==0.1.6"
 google-cloud-storage = "==1.42.1"
+requests = "*"
 
 [requires]
 python_version = "3.7"
