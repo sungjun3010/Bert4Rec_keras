@@ -1,1 +1,3 @@
-Toy project for keras exercise
+This is implementation of BERT4Rec.
+
+This is my first implemetation with keras.
